@@ -1,0 +1,162 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  line-height: 2;
+
+}
+
+a {
+  color: #a0c1b8;
+  margin: 10px 20px;
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+
+hr {
+  border-color: #726a95;
+  border-style: none;
+  border-top-style: dotted;
+  margin: 100px auto;
+  border-width: 8px;
+  width: 15%;
+}
+
+h1 {
+  color: #709fb0;
+  margin: 100px auto 0 auto;
+  font-family: 'Satisfy', sans-serif;
+  font-size: 5.625rem;
+  line-height: 2;
+}
+
+.subhead {
+  font-family: 'Trispace', sans-serif;
+  font-size: 2.5rem;
+  color: #709fb0;
+  font-weight: normal;
+
+}
+
+h2 {
+  font-family: 'Abril Fatface', sans-serif;
+  color: #709fb0;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Abril Fatface', sans-serif;
+  color: #a0c1b8;
+}
+
+p {
+  font-family: 'Trispace', sans-serif;
+  line-height: 2;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.picture {
+  height: 200px;
+
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+
+}
+
+.skillimage-1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skillimage-2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+
+}
+
+.top-container {
+  background-color: #595b83;
+  position: relative;
+  padding: 50px auto;
+
+
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+
+
+.bottom-container {
+  background-color: #726a95;
+  padding: 30px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.BUTTON_SFB {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 20px;
+   line-height: 20px;
+   color: #709fb0;
+   font-family: Open Sans;
+   width: 229px;
+   font-size: 25px;
+   padding: 16px;
+   background-color: #F4EBC1;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   border: solid #F4EBC1 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 40px;
+}
+
+.BUTTON_SFB:hover {
+   background: #F4EBC1;
+   border: solid #A0C1B8 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
